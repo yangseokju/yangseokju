@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 저는 양석주 교육생입니다. 더 열심히 채워나가겠습니다!
 
 <!--
 **yangseokju/yangseokju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
